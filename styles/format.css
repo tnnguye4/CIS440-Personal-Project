@@ -1,0 +1,67 @@
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: initial;
+}
+
+h1, h2 {
+	text-align: center;
+	font-weight: normal;
+}
+
+html {
+	min-height: 100%;
+}
+
+body {
+	min-height: 100%;
+	background-size: cover;
+}
+
+header > div {
+	margin-left: 200px;
+	margin-right: 200px;
+	width: 960px;
+	position: relative;
+	min-height: 50px;
+}
+
+.logo {
+	display: inline;
+	margin: 5px;
+}
+
+header nav {
+	position: absolute;
+	right: 0;
+	bottom: 10px;
+}
+
+a.main {
+	display: inline;
+	padding: 0 10px;
+}
+
+
+main {
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+.textbox {
+
+	float: middle;
+	min-height: 25px;
+	margin: 15px 0;
+	padding: 15px;
+}
+
+
+footer {
+	
+}
